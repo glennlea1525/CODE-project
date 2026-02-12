@@ -1,10 +1,10 @@
 ---
-description: This is the landing page of Glenn Lea
+description: This is the landing page of Glenn Lea, Guest Lecturer of SE_07.
 noIndex: true
 noRobotsIndex: true
 ---
 
-# Glenn Lea
+# README
 
 ## Heading 1
 
