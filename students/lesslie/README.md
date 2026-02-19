@@ -2,7 +2,6 @@
 
 # Headers
 
-```
 # h1 Heading 8-)
 ## h2 Heading
 ### h3 Heading
@@ -14,7 +13,6 @@ Alternatively, for H1 and H2, an underline-ish style:
 
 Alt-H1
 ======
-
 Alt-H2
 ------
 ```	
@@ -631,4 +629,3 @@ Underscores
 ```
 
 [![IMAGE ALT TEXT HERE](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/YouTube_logo_2015.svg/1200px-YouTube_logo_2015.svg.png)](https://www.youtube.com/watch?v=ciawICBvQoE)
-
