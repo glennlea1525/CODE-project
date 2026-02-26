@@ -1,6 +1,8 @@
-# Proto-persona
+# Proto-persona and user story
 
-### ![](.gitbook/assets/christopher-campbell-rDEOVtE7vOs-unsplash.jfif)
+![](.gitbook/assets/christopher-campbell-rDEOVtE7vOs-unsplash.jfif)
+
+## Proto-persona
 
 ### Name
 
@@ -29,3 +31,9 @@ Currently, no similar app exists in the marketplace but tree identification apps
 ### Attitudes, values, goals
 
 Amy is detailed oriented and caring. She has an ability to work under difficult conditions. She is concerned with the health of forests which fits with her love of nature.
+
+## User story
+
+_As a \<Role>, I want \<goal> so that \<benefit/expected outcome>._
+
+As a software engineer interested in the health of forests, I want an app that allows me to see at a glance the density of a particular species of tree in a given forest.
